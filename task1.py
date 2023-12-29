@@ -50,5 +50,5 @@ def calculator():
         print(f"Result: {result}")
         memory = result
 
-if __name__ == "__main__1":
+if __name__ == "__main__":
     calculator()
